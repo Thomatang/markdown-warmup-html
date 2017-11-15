@@ -29,7 +29,7 @@ body {
 .Supermousebackground {
   width: 100%;
   height 500px;
-  background-image: url(https://github.com/Thomatang/markdown-warmup-html/blob/master/giant-tree-trail-sequoia-national-park.jpg?raw=true);
+  background-image: url(/master/giant-tree-trail-sequoia-national-park.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: top;
